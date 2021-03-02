@@ -1,0 +1,37 @@
+mrcof/code/senior_tech_support_app/BuildConfig.java
+ mrcof.code.senior_tech_support_app.BuildConfig
+mrcof/code/senior_tech_support_app/Login.java
+ mrcof.code.senior_tech_support_app.Login
+mrcof/code/senior_tech_support_app/Phone.java
+ mrcof.code.senior_tech_support_app.Phone
+ mrcof.code.senior_tech_support_app.Phone$1
+ mrcof.code.senior_tech_support_app.Phone$2
+ mrcof.code.senior_tech_support_app.Phone$3
+ mrcof.code.senior_tech_support_app.Phone$4
+ mrcof.code.senior_tech_support_app.Phone$ViewHolder
+ mrcof.code.senior_tech_support_app.Phone$ViewHolder$1
+mrcof/code/senior_tech_support_app/MainActivity.java
+ mrcof.code.senior_tech_support_app.MainActivity
+ mrcof.code.senior_tech_support_app.MainActivity$1
+mrcof/code/senior_tech_support_app/PhoneInfo.java
+ mrcof.code.senior_tech_support_app.PhoneInfo
+ mrcof.code.senior_tech_support_app.PhoneInfo$1
+mrcof/code/senior_tech_support_app/UserHelperClass.java
+ mrcof.code.senior_tech_support_app.UserHelperClass
+mrcof/code/senior_tech_support_app/socialMedia.java
+ mrcof.code.senior_tech_support_app.socialMedia
+mrcof/code/senior_tech_support_app/Dashboard.java
+ mrcof.code.senior_tech_support_app.Dashboard
+mrcof/code/senior_tech_support_app/TV.java
+ mrcof.code.senior_tech_support_app.TV
+ mrcof.code.senior_tech_support_app.TV$1
+ mrcof.code.senior_tech_support_app.TV$2
+ mrcof.code.senior_tech_support_app.TV$3
+ mrcof.code.senior_tech_support_app.TV$4
+ mrcof.code.senior_tech_support_app.TV$ViewHolder
+ mrcof.code.senior_tech_support_app.TV$ViewHolder$1
+mrcof/code/senior_tech_support_app/TvInfo.java
+ mrcof.code.senior_tech_support_app.TvInfo
+ mrcof.code.senior_tech_support_app.TvInfo$1
+mrcof/code/senior_tech_support_app/Users.java
+ mrcof.code.senior_tech_support_app.Users

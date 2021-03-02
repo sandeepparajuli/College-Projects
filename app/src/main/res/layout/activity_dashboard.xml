@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Dashboard">
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/blue4"
+        android:fontFamily="@font/teko_medium"
+        android:text="Welcome To I.K.M.S Tech Support!"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/welcoming_user"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"
+        android:fontFamily="@font/teko_medium"
+        android:text="Hello, with what device can we help you with?                Tap Below:"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/SelectedTV"
+        android:layout_width="231dp"
+        android:layout_height="104dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:text="TV"
+        android:textSize="40sp"
+        app:cornerRadius="20dp"
+        app:icon="@drawable/ic_tv_screen" />
+
+    <Button
+        android:id="@+id/SelectedPhone"
+        android:layout_width="231dp"
+        android:layout_height="106dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:text="Phone"
+        android:textSize="30sp"
+        app:cornerRadius="20dp"
+        app:icon="@drawable/ic_android_phone" />
+
+    <Button
+        android:id="@+id/callUs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Call Us We are Open 24/7"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+    </Button>
+
+
+</LinearLayout>
